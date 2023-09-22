@@ -1,0 +1,18 @@
+<resources>
+
+
+    <string name="app_name">PrimeraAplicacionKotlin</string>
+    <string name="textSaludo">Animacion</string>
+    <string name="textSegundo">Hola</string>
+    <string name="textTercero">Tercer Activity</string>
+    <string name="textNum1">Numero 1:</string>
+    <string name="textNum2">Numero 2:</string>
+    <string name="resultado">Resultado: </string>
+
+
+
+    <string name="btnCambiar">Cambiar Activity 2</string>
+    <string name="btnCambiar2">Cambiar Activity 3</string>
+    <string name="btn1">Sumar numeros</string>
+    <string name="btnRestar">Restar numeros</string>
+</resources>
