@@ -15,4 +15,11 @@
     <string name="btnCambiar2">Cambiar Activity 3</string>
     <string name="btn1">Sumar numeros</string>
     <string name="btnRestar">Restar numeros</string>
+    <string name="radio1">Primer Radio</string>
+    <string name="radio2">Segundo Radio</string>
+    <string name="btnSpinner">Spinner</string>
+
+
+
+
 </resources>
